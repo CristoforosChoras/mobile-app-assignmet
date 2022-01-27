@@ -10,3 +10,6 @@ body{
     /* width: vw;
     height: 80vh; */
 }
+main{
+    display: flex;
+}
