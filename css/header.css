@@ -11,6 +11,8 @@ header nav ul{
     margin-top: 1rem;
 }
 nav div img{
+    position: relative;
+    right: 15rem;
     width: 9vw;
     margin-left: 25vw;
 }
@@ -21,7 +23,10 @@ nav div{
 /* i use in li display:flex to avoid th dot from the list */
 li{
     display: flex;
-    justify-content: center;
+    align-items: center;
+    font-weight:bold;
+    
+    margin-left: 1rem;
 }
 /* pseudo classe for styling the links in nav  */
  nav ul li a:link, a:visited{
