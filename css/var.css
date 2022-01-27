@@ -1,0 +1,7 @@
+/* this is our variables colors font size etc */
+:root{
+    font-size: 16px;
+    --mobile-app-text-color: #faf0e6;
+    --mobile-app-get-app-color:#5588ff;
+    --mobile-app-learn-more-color:#00cb00;
+}
