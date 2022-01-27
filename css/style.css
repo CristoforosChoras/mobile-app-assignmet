@@ -3,6 +3,7 @@
 @import url(./header.css);
 @import url(./left.css);
 @import url(./right.css);
+/* body dimencion and images  */
 body{
     background-image: url("../images/bg_001.jpg");
     font-family: "Open Sans", sans-serif;
