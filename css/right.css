@@ -5,8 +5,8 @@
     border: 2px yellow solid;
 }
 .right , .white ,  .black{
-    width: 10vw;
-    height: 23rem;
+    width: 15vw;
+    height: 36rem;
 }
 .white, .black{
     position: absolute;
