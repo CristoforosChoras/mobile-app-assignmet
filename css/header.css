@@ -1,0 +1,17 @@
+header{
+    border: 2px red solid;
+    display: flex;
+}
+nav div img{
+    border: 2px black solid;
+    width: 5%;
+
+}
+nav div{
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+}

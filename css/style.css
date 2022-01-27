@@ -7,6 +7,6 @@
 body{
     background-image: url("../images/bg_001.jpg");
     font-family: "Open Sans", sans-serif;
-    width: 100vw;
-    height: 80vh;
+    /* width: vw;
+    height: 80vh; */
 }
