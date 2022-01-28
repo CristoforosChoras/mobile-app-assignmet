@@ -17,13 +17,13 @@ p{
     line-height: 3vh;
 }
 .green{
-    /* position: relative;
-    left:2.5rem; */
+    position: relative;
+    right:2.7rem;
     margin-right: 1.5rem;
-    border-radius: 4%;
-    background: #4267B2;
+    border-radius: 6%;
+    background: var(--mobile-app-learn-more-color);
     color: #FFF;
-    padding: 2rem 0rem 0rem 3rem;
+    padding: 1rem 0rem 1rem 3.2rem;
     text-decoration: none;
     margin-left: 0.6rem;
     width: 7.5vw;
@@ -35,12 +35,15 @@ p{
     margin-top: 3rem;
 }
 .blue{
+    position: relative;
+    right: 2rem;
     border-radius: 4%;
-    background: var(--mobile-app-learn-more-color);
+    background: var(--mobile-app-get-app-color);
     color: #FFF;
-    padding: 2rem 0rem 0rem 3rem;
+    padding: 1rem 0rem 1rem 3rem;
     text-decoration: none;
     margin-left: 0.6rem;
     width: 7.5vw;
     height: 3vh;
 }
+
