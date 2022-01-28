@@ -3,6 +3,7 @@
     height: 28vh;
     display: flex;
     border: 2px yellow solid;
+    margin-left: 5rem;
 }
 .right , .white ,  .black{
     width: 15vw;
@@ -10,11 +11,16 @@
 }
 .white, .black{
     position: absolute;
+    
 }
 .black{
     position: absolute;
     margin-top: 1rem;
-    margin-left: 7rem;
+    margin-left: 8rem;
     z-index: 1;
+}
+.white{
+    position: absolute;
+    right:34rem;
 }
 

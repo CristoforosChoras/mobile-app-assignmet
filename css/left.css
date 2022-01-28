@@ -17,3 +17,14 @@ h1{
 p{
     line-height: 3vh;
 }
+.blue{
+    border:  1px #4267B2 solid;
+    border-radius: 4%;
+    background: #4267B2;
+    color: #FFF;
+    padding: 2rem 0rem 0rem 3rem;
+    text-decoration: none;
+    margin-left: 0.6rem;
+    width: 7vw;
+    height: 2vh;
+}
