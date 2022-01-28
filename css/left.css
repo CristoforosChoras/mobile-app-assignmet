@@ -7,7 +7,6 @@ h1{
     font-size: 39px;
 }
 .text{
-    border: 2px red solid;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -17,14 +16,31 @@ h1{
 p{
     line-height: 3vh;
 }
-.blue{
-    border:  1px #4267B2 solid;
+.green{
+    /* position: relative;
+    left:2.5rem; */
+    margin-right: 1.5rem;
     border-radius: 4%;
     background: #4267B2;
     color: #FFF;
     padding: 2rem 0rem 0rem 3rem;
     text-decoration: none;
     margin-left: 0.6rem;
-    width: 7vw;
-    height: 2vh;
+    width: 7.5vw;
+    height: 3vh;
+}
+.pos{
+    display: flex;
+    margin-left: 2rem;
+    margin-top: 3rem;
+}
+.blue{
+    border-radius: 4%;
+    background: var(--mobile-app-learn-more-color);
+    color: #FFF;
+    padding: 2rem 0rem 0rem 3rem;
+    text-decoration: none;
+    margin-left: 0.6rem;
+    width: 7.5vw;
+    height: 3vh;
 }
