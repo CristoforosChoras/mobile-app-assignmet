@@ -6,15 +6,16 @@ header{
 }
 header nav ul{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     width: 40vw;
-    margin-top: 1rem;
+    margin-top: 5rem;
 }
 nav div img{
     position: relative;
-    right: 15rem;
+    right: 3.7rem;
     width: 9vw;
-    margin-left: 25vw;
+    margin-left: 31vw;
+    margin-top: 4rem;
 }
 nav div{
     display: flex;
@@ -25,7 +26,7 @@ li{
     display: flex;
     align-items: center;
     font-weight:bold;
-    
+
     margin-left: 1rem;
 }
 /* pseudo classe for styling the links in nav  */
